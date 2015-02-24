@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/PDF-API2-Resource-XObject-Form-QRCode.t
+lib/PDF/API2/Resource/XObject/Form/QRCode.pm

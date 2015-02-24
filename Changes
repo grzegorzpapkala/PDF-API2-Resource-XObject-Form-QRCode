@@ -1,0 +1,6 @@
+Revision history for Perl extension PDF::API2::Resource::XObject::Form::QRCode.
+
+0.01  Sun Sep 30 16:23:29 2012
+	- original version; created by h2xs 1.23 with options
+		-X -n PDF::API2::Resource::XObject::Form::QRCode
+
